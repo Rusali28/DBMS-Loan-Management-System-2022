@@ -1,0 +1,1 @@
+This folder contains the visual illustrations of our loan management system. 
